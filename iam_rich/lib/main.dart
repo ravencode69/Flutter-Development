@@ -11,8 +11,7 @@ void main() {
         ),
         body: Center(
           child: Image(
-            image:
-                NetworkImage('https://pbs.twimg.com/media/EYVZflDWAAAJEEq.jpg'),
+            image: AssetImage('images/Catra.jpg'),
           ),
         ),
       ),
