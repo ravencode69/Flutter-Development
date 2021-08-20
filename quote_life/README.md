@@ -12,6 +12,6 @@ so they’re readily available on those hard days when you need them most.
   <table>
 <tr>
 <td><img src="https://user-images.githubusercontent.com/86804513/130202885-fc8b36b2-40ba-4745-b185-460ca4d188e9.png" width="300" height="600"></td>
-<td><h3>Logo</h3><img src="https://user-images.githubusercontent.com/86804513/130205096-9e13f01c-8307-476e-acf7-135e6dc20bd3.png" width="100" height="100"></td> 
+<td><h3>App Logo</h3><img src="https://user-images.githubusercontent.com/86804513/130205096-9e13f01c-8307-476e-acf7-135e6dc20bd3.png" width="100" height="100"></td> 
   </tr>
   </table> 
