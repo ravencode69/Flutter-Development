@@ -1,4 +1,4 @@
-# quote_life
+# quote life
 
 Whether you're going through hard times, need an extra push to get stuff done, or like sharing inspirational quotes in social media,
 quote_life has you covered.
